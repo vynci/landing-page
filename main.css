@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;  
+    line-height: 2;  
+}
+
+h1 {
+    font-weight: bold;
+    color: #333    
+}
+
+h4 {
+    color: #333    
+}
+
+small {
+    color: #95A5A6;
+}
+
+p {
+    color: #666
+}
+
+.subtitle {
+    color : grey;
+}
+
+.item-list {
+    margin-bottom: 60px;
+    text-align:left;
+}
+
+.prof-pic {
+    width : 25%;
+    border-radius : 50%;
+}
+
+.page-header{
+    margin-top: 10px !important;
+}
+
+.copyright-footer{
+    font-size: 10px;
+    color: grey;    
+}
+
+.top-nav{
+    text-align: right;
+    padding: 10px 5px;
+    margin-bottom: 20px;    
+}
+
+.btn-link{
+    color : #333 !important;
+}
