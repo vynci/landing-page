@@ -19,7 +19,8 @@ small {
 }
 
 p {
-    color: #666
+    color: #666;
+    margin-bottom: 20px; 
 }
 
 .subtitle {
@@ -27,17 +28,18 @@ p {
 }
 
 .item-list {
-    margin-bottom: 60px;
+    margin-bottom: 50px;
     text-align:left;
 }
 
 .prof-pic {
-    width : 25%;
+    width : 20%;
     border-radius : 50%;
 }
 
 .page-header{
     margin-top: 10px !important;
+    margin-bottom: 50px;
 }
 
 .copyright-footer{
